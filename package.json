@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "antd": "^3.6.1",
     "ejs": "^2.6.1",
     "koa": "^2.5.1",
     "koa-router": "^7.4.0",
